@@ -1,0 +1,15 @@
+#myInput {
+  margin: 20px auto;
+  width: 300px;
+  height: 45px;
+  font-weight: 600;
+  text-align: center;
+  background-color: RGBA(68, 163, 248, 1.00);
+  border: 0;
+  border-radius: 15px;
+  color: RGBA(222, 238, 253, 1.00);
+}
+
+#myInput::placeholder {
+  color: RGBA(222, 238, 253, 1.00);
+}

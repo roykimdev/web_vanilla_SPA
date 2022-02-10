@@ -1,0 +1,15 @@
+
+.reportDoneDesc {
+  font-size: 1.3rem;  
+}
+
+#reportScore {
+  font-size: 1.5rem;
+  margin: 5vh 0;
+}
+
+#reportAvgTime {
+  flex: .3;
+  font-size: 1.2rem;  
+  margin: 2.5vh 0;
+}

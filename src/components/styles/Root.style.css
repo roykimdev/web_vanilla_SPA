@@ -1,0 +1,60 @@
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  max-height: 968px;
+  max-width: 1024px;
+  border: 1px solid gray;
+  margin: 5vh 2.5vw;
+  padding: 5vh 2.5vw;
+}
+
+.flexInit {
+  display: flex;
+  flex: 1;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.centerAlign {
+  display: flex;
+  align-items: center;
+}
+
+.centerBoth {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  border: 0;
+}
+
+span {
+  padding: 0;
+  margin: 0;
+}
