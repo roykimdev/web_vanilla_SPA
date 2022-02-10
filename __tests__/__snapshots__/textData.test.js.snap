@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextData Render : Wait Indicator 1`] = `
+<div
+  id="waitIndicatorWrap"
+>
+  <div
+    class="waitCircle"
+  />
+  <span
+    class="waitTxt"
+  >
+    Loading...
+  </span>
+</div>
+`;
